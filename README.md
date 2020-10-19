@@ -1,2 +1,2 @@
 # embedding
-嵌入
+基于gensim实现word2vec和doc2vec
