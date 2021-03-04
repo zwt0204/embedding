@@ -128,3 +128,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea/
+data/
+model/
+data.py
+zh_core_web_sm-2.3.0.tar.gz
+tokens.txt
+splitFile.py
